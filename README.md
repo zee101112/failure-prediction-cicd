@@ -51,12 +51,8 @@ failure-prediction-cicd/
 │   ├── model_training.py
 │   ├── evaluation.py
 │   └── utils.py
-├── models/
-│   ├── saved_models/
-│   └── metrics/
 └── reports/
     ├── figures/
-    └── results_summary.md
 ```
 
 ---
